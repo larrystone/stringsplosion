@@ -1,0 +1,16 @@
+{
+  "name": "stringsplosion",
+  "version": "1.0.0",
+  "description": " A javascript class containing a function for slosing strings e.g Code becomes CCoCodCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "StringSplosion",
+    "String",
+    "Splosion"
+  ],
+  "author": "Lawal Lanre",
+  "license": "ISC"
+}
